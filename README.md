@@ -7,5 +7,7 @@ The second workflow is an implementation of cosimulation between ABAQUS and Star
 The third and final workflow includes both cosimulation and erosion using UMESHMOTION.
 
 ABAQUS is required for all FEA runs (1,2,3)
+
 StarCCM+ is required for cosimulation (2,3)
+
 Matlab is required for analytical verifications (1,2,3)
